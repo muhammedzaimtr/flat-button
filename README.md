@@ -33,6 +33,14 @@ Ufak buton kütüphanesi buna kütüphanede denmezde neyse :)
       <div class="button xlarge river disabled">xlarge river disabled</div>
 ```
 
-### Button'lar Display:inline-block; olarak ayarlanmıştır. 
-### div yerine herhangi bir html tag'ı kullanabilirsiniz. :) Sağlıcakla Kalın
+![Image](https://raw.githubusercontent.com/muhammedzaimtr/flat-button/master/images/4.png)
+
+```html
+      <div class="button xsmall carrot radius">xsmall radius</div>
+      <div class="button small sunflower radius">small radius</div>
+      <div class="button medium asphalt radius">medium radius</div>
+      <div class="button large alizarin radius disabled">large radius</div>
+      <div class="button xlarge river disabled">xlarge radius</div>
+```
+
 
