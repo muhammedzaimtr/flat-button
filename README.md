@@ -48,4 +48,8 @@ Ufak buton kütüphanesi buna kütüphanede denmezde neyse :)
       <div class="button xlarge river radius">xlarge radius</div>
 ```
 
+```html
+      **$ git clone https://github.com/muhammedzaimtr/flat-button.git
+```
+
 
