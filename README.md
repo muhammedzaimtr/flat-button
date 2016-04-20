@@ -61,4 +61,12 @@ Ufak buton kütüphanesi buna kütüphanede denmezde neyse :)
 
 ```
 
+##Öneri :)
+```html
+      ZeroPage css sıfırlama ile kullanılması önerilir...
+      <link rel="stylesheet" href="https://raw.githubusercontent.com/muhammedzaimtr/ZeroPage/master/zeropage-v1.css" media="screen" title="no title" charset="utf-8">
+
+```
+
+
 
