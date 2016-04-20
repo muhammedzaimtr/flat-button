@@ -3,6 +3,8 @@
 
 Ufak buton kütüphanesi buna kütüphanede denmezde neyse :)
 
+#Boyutlandırma
+
 ![Image](https://raw.githubusercontent.com/muhammedzaimtr/flat-button/master/images/1.png)
 
 ```html
@@ -12,7 +14,7 @@ Ufak buton kütüphanesi buna kütüphanede denmezde neyse :)
       <div class="button large ">Large</div>
       <div class="button xlarge ">XLarge</div>
 ```
-
+#Örnek Renkler
 ![Image](https://raw.githubusercontent.com/muhammedzaimtr/flat-button/master/images/2.png)
 
 ```html
@@ -22,6 +24,7 @@ Ufak buton kütüphanesi buna kütüphanede denmezde neyse :)
       <div class="button large alizarin">Alizarin</div>
       <div class="button xlarge river">River</div>
 ```
+#Disabled ve Radius
 
 ![Image](https://raw.githubusercontent.com/muhammedzaimtr/flat-button/master/images/3.png)
 
@@ -32,6 +35,8 @@ Ufak buton kütüphanesi buna kütüphanede denmezde neyse :)
       <div class="button large alizarin radius disabled">large alizarin radius disabled</div>
       <div class="button xlarge river disabled">xlarge river disabled</div>
 ```
+
+#Radius
 
 ![Image](https://raw.githubusercontent.com/muhammedzaimtr/flat-button/master/images/4.png)
 
