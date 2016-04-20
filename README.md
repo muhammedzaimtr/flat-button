@@ -39,8 +39,8 @@ Ufak buton kütüphanesi buna kütüphanede denmezde neyse :)
       <div class="button xsmall carrot radius">xsmall radius</div>
       <div class="button small sunflower radius">small radius</div>
       <div class="button medium asphalt radius">medium radius</div>
-      <div class="button large alizarin radius disabled">large radius</div>
-      <div class="button xlarge river disabled">xlarge radius</div>
+      <div class="button large alizarin radius">large radius</div>
+      <div class="button xlarge river radius">xlarge radius</div>
 ```
 
 
