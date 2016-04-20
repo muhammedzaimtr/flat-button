@@ -1,6 +1,5 @@
 # Flat Button
 
-#Yakında Sizlerle
 
 Ufak buton kütüphanesi buna kütüphanede denmezde neyse :)
 
@@ -34,6 +33,6 @@ Ufak buton kütüphanesi buna kütüphanede denmezde neyse :)
       <div class="button xlarge river disabled">xlarge river disabled</div>
 ```
 
-## Button'lar Display:inline-block; olarak ayarlanmıştır. 
-## div yerine herhangi bir html tag'ı kullanabilirsiniz. :) Sağlıcakla Kalın
+### Button'lar Display:inline-block; olarak ayarlanmıştır. 
+### div yerine herhangi bir html tag'ı kullanabilirsiniz. :) Sağlıcakla Kalın
 
